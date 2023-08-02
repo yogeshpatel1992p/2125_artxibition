@@ -1,2 +1,3 @@
 FROM nginx:latest
-cp src /usr/nginx/html
+cp src /usr/share/nginx/html
+
